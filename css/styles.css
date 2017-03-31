@@ -10,7 +10,7 @@ body {
 }
 
 button {
-	padding: 20px 40px;
+	padding: 16px 30px;
 	background: none;
 	border: none;
 	position: relative;
@@ -27,7 +27,7 @@ button:after, button:before {
 	left: 0;
 	bottom: 0;
 	right: 0;
-	border: 2px solid #000;
+	border: 1px solid #000;
 	transition: transform .2s;
 }
 
